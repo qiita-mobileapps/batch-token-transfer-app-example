@@ -1,0 +1,32 @@
+{
+  "name": "batch-token-transfer-app-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "@openzeppelin/contracts": "^3.4.0",
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "dotenv": "^16.0.0",
+    "web3": "^1.7.0"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiita-mobileapps/batch-token-transfer-app-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiita-mobileapps/batch-token-transfer-app-example/issues"
+  },
+  "homepage": "https://github.com/qiita-mobileapps/batch-token-transfer-app-example#readme"
+}
